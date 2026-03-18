@@ -1,16 +1,36 @@
-## Hi there 👋
+# hey, i'm Neulo 👋
 
-<!--
-**abhirajprasad/abhirajprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer who likes building things that work well and look clean.
 
-Here are some ideas to get you started:
+I write code in **typescript**, **go**, **rust**, and **c++** — whatever fits the problem best.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### what i work with
+
+```
+frontend    →  react · next.js · tailwind
+backend     →  node · go · rest · graphql
+systems     →  rust · c++ 
+tools       →  git · docker · linux · neovim
+```
+
+---
+
+### what i'm into
+
+- building fast, minimal interfaces
+- systems programming & performance
+- open source contributions
+- learning something new every week
+
+---
+
+### get in touch
+
+[![github](https://img.shields.io/badge/github-abhirajprasad-181717?style=flat-square&logo=github)](https://github.com/abhirajprasad)
+[![x](https://img.shields.io/badge/x-@neuulo-000000?style=flat-square&logo=x)](https://x.com/neuulo)
+
+---
+
+<sub>less noise, more code.</sub>
