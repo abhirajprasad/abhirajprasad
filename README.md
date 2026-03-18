@@ -1,4 +1,4 @@
-# hey, i'm Neulo 👋
+# hi, i'm neulo 👋
 
 ### get in touch
 
