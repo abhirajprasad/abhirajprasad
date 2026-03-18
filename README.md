@@ -1,28 +1,10 @@
 # hey, i'm Neulo 👋
 
-Full stack developer who likes building things that work well and look clean.
-
-I write code in **typescript**, **go**, **rust**, and **c++** — whatever fits the problem best.
-
----
-
-### what i work with
-
-```
-frontend    →  react · next.js · tailwind
-backend     →  node · go · rest · graphql
-systems     →  rust · c++ 
-tools       →  git · docker · linux · neovim
-```
-
----
-
 ### what i'm into
 
-- building fast, minimal interfaces
-- systems programming & performance
+- web3
 - open source contributions
-- learning something new every week
+- always learning 
 
 ---
 
