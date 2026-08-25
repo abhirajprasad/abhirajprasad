@@ -1,6 +1,6 @@
 # hi, i'm Neulo 👋
 
-<br/>
+<br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abhirajprasad&theme=dark&background=000000)
 <br/>
 ![Neulo's GitHub stats](https://github-readme-stats-eight-fawn-55.vercel.app/api?username=abhirajprasad&theme=buefy&show_icons=true)
