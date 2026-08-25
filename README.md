@@ -1,5 +1,9 @@
 # hi, i'm neulo 👋
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=proxima424&theme=dark&background=000000)
+<br/>
+![neulo's GitHub stats](https://github-readme-stats-eight-fawn-55.vercel.app/api?username=proxima424&theme=buefy&show_icons=true)
+
 ### get in touch
 
 [![github](https://img.shields.io/badge/github-abhirajprasad-181717?style=flat-square&logo=github)](https://github.com/abhirajprasad)
